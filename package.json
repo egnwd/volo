@@ -1,8 +1,8 @@
 {
-  "name": "maths-takeaway",
+  "name": "volo-journal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://egnwd.github.io/food-chain-magnate",
+  "homepage": "https://egnwd.github.io/volo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
